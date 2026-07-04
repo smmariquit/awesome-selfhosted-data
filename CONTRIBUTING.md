@@ -23,7 +23,6 @@ If you are not comfortable sending a pull request, please open a new [issue](htt
 
 In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) the software will only appear under the first category in its `tags` list, so choose wisely.
 
-
 ### Add a tag/category
 
 Tags represent functional categories/features of the software and must be added to `tags/tag-name.yml` (use [existing tags](tags/) as an example). Any tag must have a minimum of 3 software projects referencing it. The [`Miscellaneous`](tags/miscellaneous.yml) tag can be used for software not matching any existing category.
@@ -80,11 +79,9 @@ To do this from Github's web interface:
 - Click the `...` button at the top right of the file view, and click `Delete file`
 - In the `Commit changes` dialog, enter `Remove SOFTWARE_NAME (reason)` as your commit message, additional context in the `extended description` field, select `Create a new branch for this commit and start a pull request.`, and click `Commit Changes`
 
-
 ### Domain name costs
 
 You can help cover domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
-
 
 ### Other guidelines
 
@@ -104,7 +101,7 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 
 - Software that depends on a specific cloud provider
 - Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
-- Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
+- Software that requires you to write application code before producing a working end-user application (libraries, SDKs,...)
 - Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
 - Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 - Software contributions that merely port an existing application to another system (e.g., Dockerization)
