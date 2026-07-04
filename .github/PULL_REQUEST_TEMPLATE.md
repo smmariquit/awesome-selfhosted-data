@@ -1,5 +1,5 @@
-<!-- If you are adding new software to the list, DO NOT DELETE THE TEXT BELOW . Please make sure relevant boxes are checked [x] -->
-<!-- If you are simply updating an existing entry or removing a project, DO delete the text below. -->
+<!, If you are adding new software to the list, DO NOT DELETE THE TEXT BELOW. Please make sure relevant boxes are checked [x], >
+<!, If you are simply updating an existing entry or removing a project, DO delete the text below., >
 
 Thanks for taking the time to suggest an addition to awesome-selfhosted! 
 
