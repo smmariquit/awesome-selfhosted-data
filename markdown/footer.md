@@ -9,7 +9,7 @@
 
 ## External Links
 
-**[`^        back to top        ^`](#awesome-selfhosted)**
+**[`^ back to top ^`](#awesome-selfhosted)**
 
 - Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html), [awesomehub.web.app](https://awesomehub.js.org/list/selfhosted)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
@@ -28,5 +28,5 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
+Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/). 
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
